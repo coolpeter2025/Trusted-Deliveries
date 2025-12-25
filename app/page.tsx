@@ -17,21 +17,38 @@ export default function Home() {
       <section className="relative bg-cover bg-center text-white py-32 md:py-48 lg:py-64 min-h-[650px] flex items-center" style={{
         backgroundImage: "url('/truck-hero.jpg')"
       }}>
-        <div className="absolute inset-0 bg-gradient-to-r from-black/60 via-black/40 to-black/60"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-black/70"></div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center z-10 w-full">
-          <h1 className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold mb-6 leading-tight drop-shadow-2xl">
+          <h1 className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold mb-6 leading-tight" style={{
+            textShadow: '2px 2px 8px rgba(0,0,0,0.8), 0 0 20px rgba(0,0,0,0.5)'
+          }}>
             Cleveland&apos;s Premier Aggregate<br />
             Delivery Service
           </h1>
-          <p className="text-3xl md:text-4xl lg:text-5xl text-amber-400 font-bold mb-12 drop-shadow-2xl">
+          <p className="text-3xl md:text-4xl lg:text-5xl text-amber-400 font-bold mb-8" style={{
+            textShadow: '2px 2px 6px rgba(0,0,0,0.8)'
+          }}>
             Fast, Reliable Material Delivery
           </p>
-          <a
-            href="tel:+14403394494"
-            className="inline-block bg-amber-500 hover:bg-amber-400 text-gray-900 px-8 py-3 md:px-10 md:py-4 rounded font-bold text-base md:text-lg uppercase tracking-wide transition-all shadow-xl touch-manipulation"
-          >
-            Call Now!!
-          </a>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-4">
+            <a
+              href="tel:+14403394494"
+              className="inline-block bg-amber-500 hover:bg-amber-400 text-gray-900 px-10 py-4 rounded-lg font-bold text-xl uppercase tracking-wide transition-all shadow-xl touch-manipulation"
+            >
+              📞 Call (440) 339-4494
+            </a>
+            <a
+              href="mailto:Trusteddeliveries2013@gmail.com"
+              className="inline-block bg-white hover:bg-gray-100 text-gray-900 px-10 py-4 rounded-lg font-bold text-xl uppercase tracking-wide transition-all shadow-xl touch-manipulation"
+            >
+              📧 Email Us
+            </a>
+          </div>
+          <p className="text-lg md:text-xl text-white font-semibold" style={{
+            textShadow: '1px 1px 4px rgba(0,0,0,0.8)'
+          }}>
+            ⚡ Same-Day Delivery Available | Licensed & Insured
+          </p>
         </div>
       </section>
 
@@ -253,6 +270,131 @@ export default function Home() {
                 </svg>
                 <p className="font-semibold">Add Your Photo</p>
               </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Testimonials Section */}
+      <section className="py-16 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-4 text-gray-900">
+            What Our Customers Say
+          </h2>
+          <p className="text-center text-gray-600 mb-12 text-lg">
+            Trusted by homeowners, contractors, and businesses across Cleveland
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="bg-gray-50 p-8 rounded-xl shadow-lg">
+              <div className="flex mb-4">
+                {[...Array(5)].map((_, i) => (
+                  <svg key={i} className="w-5 h-5 text-amber-500 fill-current" viewBox="0 0 20 20">
+                    <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+                  </svg>
+                ))}
+              </div>
+              <p className="text-gray-700 mb-4 italic">
+                &quot;Excellent service! They delivered exactly what we needed right on time. The driver was professional and placed the materials exactly where we requested. Will definitely use again!&quot;
+              </p>
+              <p className="font-bold text-gray-900">- Mike T.</p>
+              <p className="text-sm text-gray-600">Homeowner, Lakewood</p>
+            </div>
+
+            <div className="bg-gray-50 p-8 rounded-xl shadow-lg">
+              <div className="flex mb-4">
+                {[...Array(5)].map((_, i) => (
+                  <svg key={i} className="w-5 h-5 text-amber-500 fill-current" viewBox="0 0 20 20">
+                    <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+                  </svg>
+                ))}
+              </div>
+              <p className="text-gray-700 mb-4 italic">
+                &quot;Fast response and great prices! We use Trusted Deliveries for all our construction projects. Their reliability keeps our jobs on schedule.&quot;
+              </p>
+              <p className="font-bold text-gray-900">- Sarah K.</p>
+              <p className="text-sm text-gray-600">General Contractor, Cleveland</p>
+            </div>
+
+            <div className="bg-gray-50 p-8 rounded-xl shadow-lg">
+              <div className="flex mb-4">
+                {[...Array(5)].map((_, i) => (
+                  <svg key={i} className="w-5 h-5 text-amber-500 fill-current" viewBox="0 0 20 20">
+                    <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+                  </svg>
+                ))}
+              </div>
+              <p className="text-gray-700 mb-4 italic">
+                &quot;Best aggregate delivery service in the area! Quality materials, fair pricing, and amazing customer service. Highly recommend for any project size.&quot;
+              </p>
+              <p className="font-bold text-gray-900">- James R.</p>
+              <p className="text-sm text-gray-600">Property Manager, Parma</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ Section */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-4 text-gray-900">
+            Frequently Asked Questions
+          </h2>
+          <p className="text-center text-gray-600 mb-12 text-lg">
+            Get answers to common questions about our delivery services
+          </p>
+          <div className="space-y-6">
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-bold text-gray-900 mb-2">
+                📞 What areas do you serve?
+              </h3>
+              <p className="text-gray-700">
+                We proudly serve Cleveland and all surrounding cities including Lakewood, Parma, Euclid, Cleveland Heights, Strongsville, Mentor, Westlake, Brunswick, North Olmsted, Solon, and more throughout the Greater Cleveland area.
+              </p>
+            </div>
+
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-bold text-gray-900 mb-2">
+                ⚡ Do you offer same-day delivery?
+              </h3>
+              <p className="text-gray-700">
+                Yes! We offer same-day delivery when available. Contact us early in the day at (440) 339-4494 for best availability. We understand that time is critical for your projects.
+              </p>
+            </div>
+
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-bold text-gray-900 mb-2">
+                💰 How do you calculate pricing?
+              </h3>
+              <p className="text-gray-700">
+                Pricing depends on the material type, quantity needed, and delivery location. We provide free, no-obligation quotes. Call us at (440) 339-4494 or email Trusteddeliveries2013@gmail.com for a quick estimate.
+              </p>
+            </div>
+
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-bold text-gray-900 mb-2">
+                📦 What is your minimum order size?
+              </h3>
+              <p className="text-gray-700">
+                We accommodate orders of all sizes, from small residential projects to large commercial deliveries. Whether you need a single load or multiple truckloads, we&apos;re here to help.
+              </p>
+            </div>
+
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-bold text-gray-900 mb-2">
+                🚛 Where will the materials be placed?
+              </h3>
+              <p className="text-gray-700">
+                Our professional drivers will place materials at your specified location on your property. Just let us know where you&apos;d like the delivery when you order. We can also discuss spreading services if needed.
+              </p>
+            </div>
+
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-bold text-gray-900 mb-2">
+                ✅ Are you licensed and insured?
+              </h3>
+              <p className="text-gray-700">
+                Absolutely! Trusted Deliveries is fully licensed and insured for your protection and peace of mind. We maintain all necessary certifications and insurance coverage for safe, professional operations.
+              </p>
             </div>
           </div>
         </div>
