@@ -1,0 +1,218 @@
+{
+  "serviceArea": "Cleveland, Ohio",
+  "radius": "30 miles",
+  "totalLocations": 35,
+  "locations": [
+    {
+      "name": "Cleveland",
+      "slug": "cleveland",
+      "distance": "0 miles",
+      "isMainCity": true,
+      "population": "372,624"
+    },
+    {
+      "name": "Lakewood",
+      "slug": "lakewood",
+      "distance": "5 miles",
+      "population": "50,942"
+    },
+    {
+      "name": "Cleveland Heights",
+      "slug": "cleveland-heights",
+      "distance": "6 miles",
+      "population": "44,113"
+    },
+    {
+      "name": "Parma",
+      "slug": "parma",
+      "distance": "10 miles",
+      "population": "77,395"
+    },
+    {
+      "name": "Euclid",
+      "slug": "euclid",
+      "distance": "12 miles",
+      "population": "47,357"
+    },
+    {
+      "name": "Strongsville",
+      "slug": "strongsville",
+      "distance": "15 miles",
+      "population": "44,750"
+    },
+    {
+      "name": "Mentor",
+      "slug": "mentor",
+      "distance": "22 miles",
+      "population": "46,075"
+    },
+    {
+      "name": "Westlake",
+      "slug": "westlake",
+      "distance": "14 miles",
+      "population": "33,360"
+    },
+    {
+      "name": "Brunswick",
+      "slug": "brunswick",
+      "distance": "20 miles",
+      "population": "34,710"
+    },
+    {
+      "name": "North Olmsted",
+      "slug": "north-olmsted",
+      "distance": "12 miles",
+      "population": "31,400"
+    },
+    {
+      "name": "Solon",
+      "slug": "solon",
+      "distance": "18 miles",
+      "population": "23,348"
+    },
+    {
+      "name": "Shaker Heights",
+      "slug": "shaker-heights",
+      "distance": "8 miles",
+      "population": "27,148"
+    },
+    {
+      "name": "Rocky River",
+      "slug": "rocky-river",
+      "distance": "10 miles",
+      "population": "20,213"
+    },
+    {
+      "name": "Garfield Heights",
+      "slug": "garfield-heights",
+      "distance": "9 miles",
+      "population": "27,678"
+    },
+    {
+      "name": "Maple Heights",
+      "slug": "maple-heights",
+      "distance": "11 miles",
+      "population": "22,006"
+    },
+    {
+      "name": "Berea",
+      "slug": "berea",
+      "distance": "13 miles",
+      "population": "18,713"
+    },
+    {
+      "name": "Bedford",
+      "slug": "bedford",
+      "distance": "14 miles",
+      "population": "12,555"
+    },
+    {
+      "name": "Mayfield Heights",
+      "slug": "mayfield-heights",
+      "distance": "15 miles",
+      "population": "18,582"
+    },
+    {
+      "name": "South Euclid",
+      "slug": "south-euclid",
+      "distance": "10 miles",
+      "population": "21,411"
+    },
+    {
+      "name": "University Heights",
+      "slug": "university-heights",
+      "distance": "9 miles",
+      "population": "12,955"
+    },
+    {
+      "name": "Lyndhurst",
+      "slug": "lyndhurst",
+      "distance": "13 miles",
+      "population": "13,556"
+    },
+    {
+      "name": "Brook Park",
+      "slug": "brook-park",
+      "distance": "11 miles",
+      "population": "18,594"
+    },
+    {
+      "name": "Middleburg Heights",
+      "slug": "middleburg-heights",
+      "distance": "13 miles",
+      "population": "15,328"
+    },
+    {
+      "name": "Warrensville Heights",
+      "slug": "warrensville-heights",
+      "distance": "12 miles",
+      "population": "13,178"
+    },
+    {
+      "name": "Bay Village",
+      "slug": "bay-village",
+      "distance": "12 miles",
+      "population": "15,340"
+    },
+    {
+      "name": "Broadview Heights",
+      "slug": "broadview-heights",
+      "distance": "17 miles",
+      "population": "19,078"
+    },
+    {
+      "name": "North Royalton",
+      "slug": "north-royalton",
+      "distance": "18 miles",
+      "population": "30,444"
+    },
+    {
+      "name": "Willoughby",
+      "slug": "willoughby",
+      "distance": "20 miles",
+      "population": "22,268"
+    },
+    {
+      "name": "Eastlake",
+      "slug": "eastlake",
+      "distance": "22 miles",
+      "population": "18,010"
+    },
+    {
+      "name": "Wickliffe",
+      "slug": "wickliffe",
+      "distance": "18 miles",
+      "population": "12,750"
+    },
+    {
+      "name": "Richmond Heights",
+      "slug": "richmond-heights",
+      "distance": "11 miles",
+      "population": "10,406"
+    },
+    {
+      "name": "Olmsted Falls",
+      "slug": "olmsted-falls",
+      "distance": "16 miles",
+      "population": "8,969"
+    },
+    {
+      "name": "Independence",
+      "slug": "independence",
+      "distance": "12 miles",
+      "population": "7,133"
+    },
+    {
+      "name": "Beachwood",
+      "slug": "beachwood",
+      "distance": "13 miles",
+      "population": "11,953"
+    },
+    {
+      "name": "Pepper Pike",
+      "slug": "pepper-pike",
+      "distance": "14 miles",
+      "population": "6,177"
+    }
+  ]
+}

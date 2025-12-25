@@ -1,0 +1,66 @@
+{
+  "service": "Sand Delivery",
+  "location": "Lakewood",
+  "slug": "sand-delivery-lakewood",
+  "title": "Sand Delivery in Lakewood, Ohio - Clean Sand for Construction & Landscaping | Trusted Deliveries",
+  "metaDescription": "Get professional sand delivery in Lakewood, Ohio from Trusted Deliveries. Construction sand, play sand, and mason sand. Free quote available. Call (216) 555-1234!",
+  "h1": "Sand Delivery Services in Lakewood, Ohio",
+  "intro": "Need sand delivered to your Lakewood property? Trusted Deliveries is your local expert for professional sand delivery. From construction and masonry projects to landscaping and play areas, we provide clean, quality sand with reliable delivery service. Our experienced team helps you select the right sand type for your specific application.",
+  "description": "Sand delivery services for construction, landscaping, and recreational applications. We deliver clean, washed sand suitable for concrete mixing, masonry work, landscaping, and play areas. Our team can help you select the right sand type for your specific application, and we offer reliable delivery scheduling to keep your project on track.",
+  "applications": [
+    "Concrete mixing and masonry work",
+    "Landscaping and garden projects",
+    "Play areas and sandboxes",
+    "Paver base and leveling"
+  ],
+  "benefits": [
+    "Clean, washed sand for various applications",
+    "Multiple sand types available",
+    "Reliable delivery scheduling",
+    "Suitable for construction and recreational use",
+    "Competitive rates for all project sizes"
+  ],
+  "process": [
+    "Determine your sand type and quantity",
+    "Contact us for pricing and availability",
+    "Schedule your delivery",
+    "Sand delivered to your specified location",
+    "Quality guaranteed for your application"
+  ],
+  "faqs": [
+    {
+      "question": "What types of sand do you deliver?",
+      "answer": "We deliver mason sand, concrete sand, play sand, and fill sand. Each type is suited for different applications."
+    },
+    {
+      "question": "How much sand do I need for my project?",
+      "answer": "That depends on your specific project. Contact us with dimensions, and we'll help calculate the right amount."
+    },
+    {
+      "question": "Can you deliver on weekends in Lakewood?",
+      "answer": "Yes, we offer flexible delivery scheduling including weekend options. Call to arrange a convenient time."
+    },
+    {
+      "question": "Is spreading service available with sand delivery?",
+      "answer": "Yes, we offer optional spreading and leveling services to help complete your landscaping or construction project."
+    }
+  ],
+  "images": [
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Professional sand delivery service - Construction and play sand in Lakewood",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Quality sand delivered for construction and landscaping in Lakewood",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Sand delivery trucks ready for service in Lakewood, Ohio",
+      "credit": "Trusted Deliveries"
+    }
+  ],
+  "cta": "Need sand delivery in Lakewood? Contact Trusted Deliveries at (216) 555-1234 for professional service and a free quote!"
+}

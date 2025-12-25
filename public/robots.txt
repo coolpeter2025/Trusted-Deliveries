@@ -1,0 +1,10 @@
+# robots.txt for Trusted Deliveries
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://trusteddeliveries.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1

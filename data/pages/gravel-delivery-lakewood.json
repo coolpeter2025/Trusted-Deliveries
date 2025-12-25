@@ -1,0 +1,66 @@
+{
+  "service": "Gravel Delivery",
+  "location": "Lakewood",
+  "slug": "gravel-delivery-lakewood",
+  "title": "Gravel Delivery in Lakewood, Ohio - Crushed Stone & Pea Gravel Fast | Trusted Deliveries",
+  "metaDescription": "Get professional gravel delivery in Lakewood, Ohio. Trusted Deliveries delivers crushed stone, pea gravel, and landscape rock. Free quote available. Call (216) 555-1234!",
+  "h1": "Gravel Delivery Services in Lakewood, Ohio",
+  "intro": "Need gravel for your Lakewood project? Trusted Deliveries is your local expert for professional gravel delivery. From driveway renovation to landscaping and construction projects, we deliver quality gravel materials with prompt, reliable service. Our team can help you select the right gravel type for your specific application.",
+  "description": "Reliable gravel delivery for driveways, construction sites, and landscaping projects. We offer multiple gravel types and sizes with prompt delivery to keep your projects moving. Our professional operators and modern equipment ensure accurate drop-off and proper handling of all materials. We're committed to competitive pricing and excellent service for all quantities.",
+  "applications": [
+    "Driveways and access roads",
+    "Foundations and construction sites",
+    "Landscaping and drainage projects",
+    "Parking areas and pathways"
+  ],
+  "benefits": [
+    "Multiple gravel types and sizes available",
+    "Prompt delivery to keep projects moving",
+    "Competitive pricing for all quantities",
+    "Professional operators and equipment",
+    "Excellent for drainage and stability"
+  ],
+  "process": [
+    "Choose your gravel type (crushed stone, pea gravel, river rock, etc.)",
+    "Request a free quote for your quantity",
+    "Schedule delivery at your convenience",
+    "Receive gravel delivered precisely where needed",
+    "Spreading services available upon request"
+  ],
+  "faqs": [
+    {
+      "question": "What gravel types do you offer?",
+      "answer": "We offer crushed stone, pea gravel, river rock, #57 stone, #8 stone, and more. Each type has different uses and aesthetics."
+    },
+    {
+      "question": "How much gravel do I need for my driveway?",
+      "answer": "It depends on your driveway size and current condition. Our team can help calculate the right amount - just provide us with dimensions."
+    },
+    {
+      "question": "Can you spread gravel after delivery?",
+      "answer": "Yes! We offer professional spreading and grading services to complete your project."
+    },
+    {
+      "question": "Do you deliver weekends in Lakewood?",
+      "answer": "Yes, we offer flexible delivery scheduling including weekend options. Call to arrange a convenient time."
+    }
+  ],
+  "images": [
+    {
+      "url": "/images/Gravel.JPG",
+      "alt": "Professional gravel delivery service - Crushed stone and pea gravel in Lakewood",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Gravel.JPG",
+      "alt": "Quality gravel delivered for driveways and construction in Lakewood",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Gravel.JPG",
+      "alt": "Gravel delivery trucks ready for service in Lakewood, Ohio",
+      "credit": "Trusted Deliveries"
+    }
+  ],
+  "cta": "Need gravel delivery in Lakewood? Contact Trusted Deliveries at (216) 555-1234 for professional service and a free quote!"
+}

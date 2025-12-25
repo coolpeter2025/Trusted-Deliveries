@@ -1,0 +1,66 @@
+{
+  "service": "Gravel Delivery",
+  "location": "Euclid",
+  "slug": "gravel-delivery-euclid",
+  "title": "Gravel Delivery in Euclid, Ohio - Crushed Stone Delivered Fast | Trusted Deliveries",
+  "metaDescription": "Get professional gravel delivery in Euclid, Ohio from Trusted Deliveries. Quality crushed stone, pea gravel, and river rock for driveways and construction. Call (216) 555-1234!",
+  "h1": "Gravel Delivery Services in Euclid, Ohio",
+  "intro": "Need gravel delivered to your Euclid location? Trusted Deliveries specializes in professional gravel delivery throughout Euclid and the surrounding region. With multiple material options and flexible scheduling, we make it easy to get the gravel you need for your driveway, construction project, or landscaping work.",
+  "description": "Reliable gravel delivery for driveways, construction sites, and landscaping projects. We offer multiple gravel types and sizes with prompt delivery to keep your projects moving. Our professional operators and modern equipment ensure accurate drop-off and proper handling of all materials. We're committed to competitive pricing and excellent service for all quantities.",
+  "applications": [
+    "Driveways and access roads",
+    "Foundations and construction sites",
+    "Landscaping and drainage projects",
+    "Parking areas and pathways"
+  ],
+  "benefits": [
+    "Multiple gravel types and sizes available",
+    "Prompt delivery to keep projects moving",
+    "Competitive pricing for all quantities",
+    "Professional operators and equipment",
+    "Excellent for drainage and stability"
+  ],
+  "process": [
+    "Choose your gravel type (crushed stone, pea gravel, river rock, etc.)",
+    "Request a free quote for your quantity",
+    "Schedule delivery at your convenience",
+    "Receive gravel delivered precisely where needed",
+    "Spreading services available upon request"
+  ],
+  "faqs": [
+    {
+      "question": "What gravel types do you offer?",
+      "answer": "We offer crushed stone, pea gravel, river rock, #57 stone, #8 stone, and more. Each type has different uses and aesthetics."
+    },
+    {
+      "question": "Can you deliver to all areas of Euclid?",
+      "answer": "Yes, we proudly serve all neighborhoods throughout Euclid. Call to confirm service to your specific address."
+    },
+    {
+      "question": "What should I choose for my driveway?",
+      "answer": "Crushed stone (#57) is excellent for driveways. We can recommend the best option based on your specific needs and preferences."
+    },
+    {
+      "question": "How long does gravel delivery take?",
+      "answer": "We typically deliver within 24-48 hours of your order. Contact us for current availability and rush service options."
+    }
+  ],
+  "images": [
+    {
+      "url": "/images/Gravel.JPG",
+      "alt": "Professional gravel delivery service - Crushed stone and pea gravel in Euclid",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Gravel.JPG",
+      "alt": "Quality gravel delivered for driveways and construction in Euclid",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Gravel.JPG",
+      "alt": "Gravel delivery trucks ready for service in Euclid, Ohio",
+      "credit": "Trusted Deliveries"
+    }
+  ],
+  "cta": "Need gravel delivery in Euclid? Contact Trusted Deliveries at (216) 555-1234 for quality materials and professional service!"
+}

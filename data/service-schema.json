@@ -1,0 +1,348 @@
+{
+  "serviceNiche": "Aggregate Delivery",
+  "businessName": "Trusted Deliveries",
+  "services": [
+    {
+      "name": "Dirt Delivery",
+      "slug": "dirt-delivery",
+      "description": "Professional dirt delivery services for construction and lot development",
+      "shortDescription": "Quality fill dirt delivered directly to your site",
+      "icon": "🚚",
+      "image": "/images/Dirt.JPG",
+      "applications": [
+        "New construction projects",
+        "Lot development and land leveling",
+        "Property grading and site preparation",
+        "Backfill and foundation work"
+      ],
+      "benefits": [
+        "High-quality fill dirt sourced locally",
+        "Accurate drop-off at your specified location",
+        "Work within your timeline and budget",
+        "Start your project on solid ground without delays",
+        "Various dirt types available (fill dirt, topsoil, screened dirt)"
+      ],
+      "process": [
+        "Contact us for a free quote",
+        "Specify your dirt type and quantity needed",
+        "Schedule convenient delivery time",
+        "Receive quality dirt delivered to your site",
+        "Optional spreading and grading services available"
+      ],
+      "faqs": [
+        {
+          "question": "What types of dirt do you deliver?",
+          "answer": "We deliver fill dirt, topsoil, screened dirt, and clay. Each type serves different purposes for construction and landscaping projects."
+        },
+        {
+          "question": "How do I know how much dirt I need?",
+          "answer": "Our team can help you calculate the amount needed based on your project dimensions. Generally, we measure in cubic yards."
+        },
+        {
+          "question": "Do you offer same-day delivery?",
+          "answer": "Yes, we offer same-day delivery when available. Contact us early in the day for best availability."
+        }
+      ]
+    },
+    {
+      "name": "Gravel Delivery",
+      "slug": "gravel-delivery",
+      "description": "Reliable gravel delivery for driveways, construction sites, and landscaping projects",
+      "shortDescription": "Various gravel types delivered for any project size",
+      "icon": "⛏️",
+      "image": "/images/Gravel.JPG",
+      "applications": [
+        "Driveways and access roads",
+        "Foundations and construction sites",
+        "Landscaping and drainage projects",
+        "Parking areas and pathways"
+      ],
+      "benefits": [
+        "Multiple gravel types and sizes available",
+        "Prompt delivery to keep projects moving",
+        "Competitive pricing for all quantities",
+        "Professional operators and equipment",
+        "Excellent for drainage and stability"
+      ],
+      "process": [
+        "Choose your gravel type (crushed stone, pea gravel, river rock, etc.)",
+        "Request a free quote for your quantity",
+        "Schedule delivery at your convenience",
+        "Receive gravel delivered precisely where needed",
+        "Spreading services available upon request"
+      ],
+      "faqs": [
+        {
+          "question": "What gravel types do you offer?",
+          "answer": "We offer crushed stone, pea gravel, river rock, #57 stone, #8 stone, and more. Each type has different uses and aesthetics."
+        },
+        {
+          "question": "Can you deliver gravel for a residential driveway?",
+          "answer": "Absolutely! We serve residential, commercial, and construction clients with loads of all sizes."
+        },
+        {
+          "question": "How is gravel measured and priced?",
+          "answer": "Gravel is typically sold by the ton or cubic yard. We'll help you determine the right amount for your project."
+        }
+      ]
+    },
+    {
+      "name": "Sand Delivery",
+      "slug": "sand-delivery",
+      "description": "Sand delivery services for construction, landscaping, and recreational applications",
+      "shortDescription": "Clean sand delivered for construction and landscaping",
+      "icon": "🏖️",
+      "image": "/images/Sand.JPG",
+      "applications": [
+        "Concrete mixing and masonry work",
+        "Landscaping and garden projects",
+        "Play areas and sandboxes",
+        "Paver base and leveling"
+      ],
+      "benefits": [
+        "Clean, washed sand for various applications",
+        "Multiple sand types available",
+        "Reliable delivery scheduling",
+        "Suitable for construction and recreational use",
+        "Competitive rates for all project sizes"
+      ],
+      "process": [
+        "Determine your sand type and quantity",
+        "Contact us for pricing and availability",
+        "Schedule your delivery",
+        "Sand delivered to your specified location",
+        "Quality guaranteed for your application"
+      ],
+      "faqs": [
+        {
+          "question": "What types of sand do you deliver?",
+          "answer": "We deliver mason sand, concrete sand, play sand, and fill sand. Each type is suited for different applications."
+        },
+        {
+          "question": "Is your play sand safe for children?",
+          "answer": "Yes, our play sand is clean, washed, and safe for recreational use in sandboxes and play areas."
+        },
+        {
+          "question": "Can I order a small amount of sand?",
+          "answer": "Yes, we accommodate orders of all sizes, from small residential needs to large commercial projects."
+        }
+      ]
+    },
+    {
+      "name": "Salt Delivery",
+      "slug": "salt-delivery",
+      "description": "Bulk salt delivery for winter safety and ice management",
+      "shortDescription": "Keep properties safe with bulk salt delivery",
+      "icon": "❄️",
+      "image": "/images/Salt.JPG",
+      "applications": [
+        "Commercial property ice management",
+        "Parking lots and roadways",
+        "Construction and industrial sites",
+        "Municipal and government facilities"
+      ],
+      "benefits": [
+        "Bulk quantities available for entire season",
+        "Rock salt and treated salt options",
+        "Reliable pre-season and emergency delivery",
+        "Competitive pricing for volume orders",
+        "Keep properties safe all winter long"
+      ],
+      "process": [
+        "Estimate your seasonal salt needs",
+        "Request a quote for bulk delivery",
+        "Schedule pre-season or as-needed delivery",
+        "Salt delivered and stored at your location",
+        "Reorder as needed throughout winter"
+      ],
+      "faqs": [
+        {
+          "question": "When should I order salt for winter?",
+          "answer": "We recommend ordering in late fall before winter weather begins. Pre-season orders ensure availability and best pricing."
+        },
+        {
+          "question": "What's the difference between rock salt and treated salt?",
+          "answer": "Rock salt is standard sodium chloride. Treated salt includes additives that help it work at lower temperatures and reduce concrete damage."
+        },
+        {
+          "question": "Do you offer emergency salt delivery during storms?",
+          "answer": "Yes, we provide emergency delivery service during winter storms, subject to safe driving conditions and availability."
+        }
+      ]
+    },
+    {
+      "name": "Snow Removal",
+      "slug": "snow-removal",
+      "description": "Professional snow removal and site maintenance services",
+      "shortDescription": "Reliable snow removal for safe winter access",
+      "icon": "🌨️",
+      "image": "/images/Snow.JPG",
+      "applications": [
+        "Commercial property snow clearing",
+        "Parking lot plowing and salting",
+        "Construction site access maintenance",
+        "Industrial facility snow management"
+      ],
+      "benefits": [
+        "Professional equipment and experienced operators",
+        "24/7 emergency response available",
+        "Reduce liability and improve safety",
+        "Minimize downtime during winter weather",
+        "Seasonal contracts and per-event service available"
+      ],
+      "process": [
+        "Contact us for a site assessment",
+        "Receive customized snow removal plan",
+        "Choose seasonal contract or per-event service",
+        "We monitor weather and respond automatically",
+        "Professional clearing and salting completed"
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer 24/7 snow removal?",
+          "answer": "Yes, we provide round-the-clock snow removal services to ensure your property remains accessible and safe."
+        },
+        {
+          "question": "What's included in snow removal service?",
+          "answer": "Services include plowing, shoveling, salting/de-icing, and snow hauling if needed. We customize based on your property needs."
+        },
+        {
+          "question": "How do seasonal contracts work?",
+          "answer": "Seasonal contracts provide unlimited snow removal for a flat rate, giving you budget certainty and priority service all winter."
+        }
+      ]
+    },
+    {
+      "name": "Site Preparation",
+      "slug": "site-preparation",
+      "description": "Complete site preparation services for construction projects",
+      "shortDescription": "Professional site prep from clearing to grading",
+      "icon": "🏗️",
+      "image": "/images/Site Prep.JPG",
+      "applications": [
+        "New construction site preparation",
+        "Land clearing and grading",
+        "Excavation and earthmoving",
+        "Foundation preparation"
+      ],
+      "benefits": [
+        "Complete site services from start to finish",
+        "Experienced operators and modern equipment",
+        "Proper grading for drainage and stability",
+        "Saves time and coordinates all site work",
+        "Licensed and insured for your protection"
+      ],
+      "process": [
+        "Schedule a site consultation",
+        "Receive detailed scope and quote",
+        "Approve timeline and begin work",
+        "Professional clearing, grading, and preparation",
+        "Site ready for construction to begin"
+      ],
+      "faqs": [
+        {
+          "question": "What does site preparation include?",
+          "answer": "Site prep can include clearing vegetation, removing debris, excavation, grading, compaction, and ensuring proper drainage."
+        },
+        {
+          "question": "How long does site preparation take?",
+          "answer": "Timeline depends on site size and complexity. Most residential sites take 1-3 days, while larger commercial sites may take 1-2 weeks."
+        },
+        {
+          "question": "Do you handle permits for site work?",
+          "answer": "We can assist with permit requirements and work with local authorities. Permit responsibility typically lies with the property owner or contractor."
+        }
+      ]
+    },
+    {
+      "name": "Material Spreading",
+      "slug": "material-spreading",
+      "description": "Professional spreading services for dirt, gravel, and other materials",
+      "shortDescription": "Expert material spreading and grading",
+      "icon": "🚜",
+      "image": "/images/Material Spreading.JPG",
+      "applications": [
+        "Dirt and topsoil spreading",
+        "Gravel driveway installation",
+        "Material grading and leveling",
+        "Site finishing work"
+      ],
+      "benefits": [
+        "Professional results with proper equipment",
+        "Saves time and physical labor",
+        "Even distribution and proper grading",
+        "Experienced operators",
+        "Complements our delivery services"
+      ],
+      "process": [
+        "Delivery of your materials",
+        "Professional spreading with appropriate equipment",
+        "Grading and leveling to specifications",
+        "Final inspection and cleanup",
+        "Site ready for next construction phase"
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer spreading with material delivery?",
+          "answer": "Yes, we offer spreading services as an add-on to any material delivery. Just request it when ordering."
+        },
+        {
+          "question": "What equipment do you use for spreading?",
+          "answer": "We use skid steers, bulldozers, and grading equipment appropriate for your project size and material type."
+        },
+        {
+          "question": "Can you grade for proper drainage?",
+          "answer": "Absolutely. Our operators are experienced in grading for proper water drainage and site stability."
+        }
+      ]
+    },
+    {
+      "name": "Debris Removal",
+      "slug": "debris-removal",
+      "description": "Demolition debris and construction waste removal services",
+      "shortDescription": "Fast debris removal and site cleanup",
+      "icon": "♻️",
+      "image": "/images/Debri Removal.PNG",
+      "applications": [
+        "Construction site cleanup",
+        "Demolition debris removal",
+        "Land clearing waste disposal",
+        "Renovation and remodel cleanup"
+      ],
+      "benefits": [
+        "Keep job sites clean and safe",
+        "Proper disposal of all materials",
+        "Fast turnaround to keep projects moving",
+        "Handles concrete, wood, metal, and general debris",
+        "Licensed waste hauling"
+      ],
+      "process": [
+        "Assess debris type and volume",
+        "Schedule pickup service",
+        "Load and haul debris from site",
+        "Proper disposal at licensed facilities",
+        "Clean, clear site ready for work"
+      ],
+      "faqs": [
+        {
+          "question": "What types of debris do you remove?",
+          "answer": "We remove construction debris, concrete, asphalt, wood, metal, dirt, and general waste from job sites."
+        },
+        {
+          "question": "Do you offer same-day debris removal?",
+          "answer": "Same-day service is often available. Contact us early in the day for best availability."
+        },
+        {
+          "question": "How is debris removal priced?",
+          "answer": "Pricing is based on debris volume, type, and disposal requirements. We provide free quotes before starting work."
+        }
+      ]
+    }
+  ],
+  "seoTemplate": {
+    "titleTemplate": "{SERVICE} in {LOCATION} - Fast, Reliable Delivery | Trusted Deliveries",
+    "descriptionTemplate": "Professional {SERVICE} services in {LOCATION}, Ohio. Trusted Deliveries provides reliable aggregate delivery for residential and commercial projects. Call for a free quote today!",
+    "h1Template": "{SERVICE} Services in {LOCATION}, Ohio",
+    "introTemplate": "Looking for professional {SERVICE} in {LOCATION}? Trusted Deliveries is your local provider for reliable aggregate delivery services throughout the Greater Cleveland area."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "service": "Sand Delivery",
+  "location": "Parma",
+  "slug": "sand-delivery-parma",
+  "title": "Sand Delivery in Parma, Ohio - Quality Construction & Play Sand | Trusted Deliveries",
+  "metaDescription": "Professional sand delivery in Parma, Ohio. Trusted Deliveries provides clean construction sand, play sand, and mason sand. Free quote available. Call (216) 555-1234!",
+  "h1": "Sand Delivery Services in Parma, Ohio",
+  "intro": "Looking for reliable sand delivery in Parma? Trusted Deliveries is your trusted source for clean, quality sand for all your construction and landscaping needs. We serve Parma residents and businesses with prompt delivery, competitive pricing, and professional service. Whether you need sand for masonry, construction, or play areas, we have you covered.",
+  "description": "Sand delivery services for construction, landscaping, and recreational applications. We deliver clean, washed sand suitable for concrete mixing, masonry work, landscaping, and play areas. Our team can help you select the right sand type for your specific application, and we offer reliable delivery scheduling to keep your project on track.",
+  "applications": [
+    "Concrete mixing and masonry work",
+    "Landscaping and garden projects",
+    "Play areas and sandboxes",
+    "Paver base and leveling"
+  ],
+  "benefits": [
+    "Clean, washed sand for various applications",
+    "Multiple sand types available",
+    "Reliable delivery scheduling",
+    "Suitable for construction and recreational use",
+    "Competitive rates for all project sizes"
+  ],
+  "process": [
+    "Determine your sand type and quantity",
+    "Contact us for pricing and availability",
+    "Schedule your delivery",
+    "Sand delivered to your specified location",
+    "Quality guaranteed for your application"
+  ],
+  "faqs": [
+    {
+      "question": "What types of sand do you deliver?",
+      "answer": "We deliver mason sand, concrete sand, play sand, and fill sand. Each type is suited for different applications."
+    },
+    {
+      "question": "What is the cost of sand delivery in Parma?",
+      "answer": "Pricing depends on the sand type and quantity needed. Contact us for a competitive quote tailored to your project."
+    },
+    {
+      "question": "How quickly can you deliver sand in Parma?",
+      "answer": "We offer prompt delivery, often same-day or next-day depending on availability. Call to check current schedules."
+    },
+    {
+      "question": "Can you deliver to all areas of Parma?",
+      "answer": "Yes, we proudly serve all neighborhoods throughout Parma. Call to confirm delivery to your specific location."
+    }
+  ],
+  "images": [
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Professional sand delivery service - Construction and play sand in Parma",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Quality sand delivered for construction and landscaping in Parma",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Sand delivery trucks ready for service in Parma, Ohio",
+      "credit": "Trusted Deliveries"
+    }
+  ],
+  "cta": "Ready for sand delivery in Parma? Call Trusted Deliveries at (216) 555-1234 or request a free quote today!"
+}

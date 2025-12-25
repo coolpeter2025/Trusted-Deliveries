@@ -1,0 +1,66 @@
+{
+  "service": "Dirt Delivery",
+  "location": "Parma",
+  "slug": "dirt-delivery-parma",
+  "title": "Dirt Delivery in Parma, Ohio - Professional Fill Dirt Service | Trusted Deliveries",
+  "metaDescription": "Professional dirt delivery service in Parma, Ohio. Trusted Deliveries provides quality fill dirt for construction, land development, and site grading. Call for your free quote today!",
+  "h1": "Dirt Delivery Services in Parma, Ohio",
+  "intro": "Looking for reliable dirt delivery in Parma? Trusted Deliveries is your trusted partner for all fill dirt needs. We serve Parma and surrounding areas with prompt, professional dirt delivery for construction projects, lot development, and property grading. Our commitment to quality materials and on-time delivery makes us the preferred choice for contractors and property owners throughout Parma.",
+  "description": "Professional dirt delivery services for construction and lot development. We provide high-quality fill dirt sourced locally and delivered directly to your site. Our experienced team works within your timeline and budget to ensure your project starts on solid ground without delays. We offer various dirt types including fill dirt, topsoil, and screened dirt to meet your specific project needs.",
+  "applications": [
+    "New construction projects",
+    "Lot development and land leveling",
+    "Property grading and site preparation",
+    "Backfill and foundation work"
+  ],
+  "benefits": [
+    "High-quality fill dirt sourced locally",
+    "Accurate drop-off at your specified location",
+    "Work within your timeline and budget",
+    "Start your project on solid ground without delays",
+    "Various dirt types available (fill dirt, topsoil, screened dirt)"
+  ],
+  "process": [
+    "Contact us for a free quote",
+    "Specify your dirt type and quantity needed",
+    "Schedule convenient delivery time",
+    "Receive quality dirt delivered to your site",
+    "Optional spreading and grading services available"
+  ],
+  "faqs": [
+    {
+      "question": "What types of dirt do you deliver?",
+      "answer": "We deliver fill dirt, topsoil, screened dirt, and clay. Each type serves different purposes for construction and landscaping projects."
+    },
+    {
+      "question": "How quickly can you deliver in Parma?",
+      "answer": "We often provide same-day or next-day delivery in Parma. Contact us for current availability."
+    },
+    {
+      "question": "Do you serve all parts of Parma?",
+      "answer": "Yes, we proudly serve all areas of Parma and surrounding communities. Call us to confirm delivery to your specific location."
+    },
+    {
+      "question": "What is your minimum order amount?",
+      "answer": "We accommodate orders of all sizes, from small residential projects to large commercial sites. Contact us for details."
+    }
+  ],
+  "images": [
+    {
+      "url": "/images/Dirt.JPG",
+      "alt": "Professional dirt delivery service - Available in every location in Parma",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Dirt.JPG",
+      "alt": "Quality fill dirt delivered to your construction site in Parma",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Dirt.JPG",
+      "alt": "Dirt delivery trucks ready for service in Parma, Ohio",
+      "credit": "Trusted Deliveries"
+    }
+  ],
+  "cta": "Ready for dirt delivery in Parma? Contact Trusted Deliveries at (216) 555-1234 or request a free quote online!"
+}

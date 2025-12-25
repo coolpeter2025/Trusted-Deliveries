@@ -1,0 +1,66 @@
+{
+  "service": "Sand Delivery",
+  "location": "Euclid",
+  "slug": "sand-delivery-euclid",
+  "title": "Sand Delivery in Euclid, Ohio - Clean Sand Delivered Fast | Trusted Deliveries",
+  "metaDescription": "Get professional sand delivery in Euclid, Ohio. Clean construction sand, play sand, and mason sand from Trusted Deliveries. Call (216) 555-1234 for a free quote!",
+  "h1": "Sand Delivery Services in Euclid, Ohio",
+  "intro": "Need sand delivered to your Euclid location? Trusted Deliveries specializes in professional sand delivery throughout Euclid and the surrounding region. With multiple sand types and flexible scheduling, we make it easy to get the clean, quality sand you need for construction, landscaping, or recreational projects.",
+  "description": "Sand delivery services for construction, landscaping, and recreational applications. We deliver clean, washed sand suitable for concrete mixing, masonry work, landscaping, and play areas. Our team can help you select the right sand type for your specific application, and we offer reliable delivery scheduling to keep your project on track.",
+  "applications": [
+    "Concrete mixing and masonry work",
+    "Landscaping and garden projects",
+    "Play areas and sandboxes",
+    "Paver base and leveling"
+  ],
+  "benefits": [
+    "Clean, washed sand for various applications",
+    "Multiple sand types available",
+    "Reliable delivery scheduling",
+    "Suitable for construction and recreational use",
+    "Competitive rates for all project sizes"
+  ],
+  "process": [
+    "Determine your sand type and quantity",
+    "Contact us for pricing and availability",
+    "Schedule your delivery",
+    "Sand delivered to your specified location",
+    "Quality guaranteed for your application"
+  ],
+  "faqs": [
+    {
+      "question": "What types of sand do you deliver?",
+      "answer": "We deliver mason sand, concrete sand, play sand, and fill sand. Each type is suited for different applications."
+    },
+    {
+      "question": "Can you deliver to all areas of Euclid?",
+      "answer": "Yes, we proudly serve all neighborhoods throughout Euclid. Call to confirm service to your specific address."
+    },
+    {
+      "question": "Is your play sand clean and safe?",
+      "answer": "Absolutely. Our play sand is clean, washed, and thoroughly tested for safety in recreational use."
+    },
+    {
+      "question": "How long does sand delivery take?",
+      "answer": "We typically deliver within 24-48 hours of your order. Contact us for current availability and rush options."
+    }
+  ],
+  "images": [
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Professional sand delivery service - Construction and play sand in Euclid",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Quality sand delivered for construction and landscaping in Euclid",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Sand delivery trucks ready for service in Euclid, Ohio",
+      "credit": "Trusted Deliveries"
+    }
+  ],
+  "cta": "Need sand delivery in Euclid? Contact Trusted Deliveries at (216) 555-1234 for quality materials and professional service!"
+}

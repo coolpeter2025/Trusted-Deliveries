@@ -1,0 +1,66 @@
+{
+  "service": "Dirt Delivery",
+  "location": "Lakewood",
+  "slug": "dirt-delivery-lakewood",
+  "title": "Dirt Delivery in Lakewood, Ohio - Quality Fill Dirt Fast | Trusted Deliveries",
+  "metaDescription": "Get professional dirt delivery in Lakewood, Ohio from Trusted Deliveries. We deliver quality fill dirt for construction projects, lot development, and site preparation. Free quote available!",
+  "h1": "Dirt Delivery Services in Lakewood, Ohio",
+  "intro": "Need dirt delivery in Lakewood? Trusted Deliveries delivers high-quality fill dirt directly to residential and commercial properties throughout Lakewood. With over 15 years of experience, we provide reliable dirt delivery services for construction projects, lot grading, and site preparation. Our professional team ensures quality materials and timely delivery to keep your project moving forward.",
+  "description": "Professional dirt delivery services for construction and lot development. We provide high-quality fill dirt sourced locally and delivered directly to your site. Our experienced team works within your timeline and budget to ensure your project starts on solid ground without delays. We offer various dirt types including fill dirt, topsoil, and screened dirt to meet your specific project needs.",
+  "applications": [
+    "New construction projects",
+    "Lot development and land leveling",
+    "Property grading and site preparation",
+    "Backfill and foundation work"
+  ],
+  "benefits": [
+    "High-quality fill dirt sourced locally",
+    "Accurate drop-off at your specified location",
+    "Work within your timeline and budget",
+    "Start your project on solid ground without delays",
+    "Various dirt types available (fill dirt, topsoil, screened dirt)"
+  ],
+  "process": [
+    "Contact us for a free quote",
+    "Specify your dirt type and quantity needed",
+    "Schedule convenient delivery time",
+    "Receive quality dirt delivered to your site",
+    "Optional spreading and grading services available"
+  ],
+  "faqs": [
+    {
+      "question": "What types of dirt do you deliver?",
+      "answer": "We deliver fill dirt, topsoil, screened dirt, and clay. Each type serves different purposes for construction and landscaping projects."
+    },
+    {
+      "question": "How much does dirt delivery cost in Lakewood?",
+      "answer": "Pricing depends on the type of dirt, quantity, and distance. Contact us for a free quote tailored to your specific project needs."
+    },
+    {
+      "question": "Can you deliver on weekends?",
+      "answer": "Yes, we offer weekend delivery options. Contact us to schedule a time that works best for your project."
+    },
+    {
+      "question": "Is spreading and grading available in Lakewood?",
+      "answer": "Absolutely! We offer optional spreading and grading services to help complete your site preparation project."
+    }
+  ],
+  "images": [
+    {
+      "url": "/images/Dirt.JPG",
+      "alt": "Professional dirt delivery service - Available in every location in Lakewood",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Dirt.JPG",
+      "alt": "Quality fill dirt delivered to your construction site in Lakewood",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Dirt.JPG",
+      "alt": "Dirt delivery trucks ready for service in Lakewood, Ohio",
+      "credit": "Trusted Deliveries"
+    }
+  ],
+  "cta": "Need dirt delivery in Lakewood? Call Trusted Deliveries at (216) 555-1234 for fast, reliable service and a free quote!"
+}

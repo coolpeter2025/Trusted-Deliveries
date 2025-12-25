@@ -1,0 +1,66 @@
+{
+  "service": "Dirt Delivery",
+  "location": "Cleveland",
+  "slug": "dirt-delivery-cleveland",
+  "title": "Professional Dirt Delivery in Cleveland - Quality Fill Dirt | Trusted Deliveries",
+  "metaDescription": "Professional dirt delivery services in Cleveland, Ohio. Trusted Deliveries provides reliable fill dirt for construction, lot development, and site preparation. Call (216) 555-1234 for a free quote!",
+  "h1": "Dirt Delivery Services in Cleveland, Ohio",
+  "intro": "Looking for professional dirt delivery in Cleveland? Trusted Deliveries is your local provider for reliable fill dirt services throughout Cleveland and the Greater Cleveland area. Whether you need dirt for new construction, lot development, or site preparation, we deliver quality fill dirt directly to your location with precision and reliability.",
+  "description": "Professional dirt delivery services for construction and lot development. We provide high-quality fill dirt sourced locally and delivered directly to your site. Our experienced team works within your timeline and budget to ensure your project starts on solid ground without delays. We offer various dirt types including fill dirt, topsoil, and screened dirt to meet your specific project needs.",
+  "applications": [
+    "New construction projects",
+    "Lot development and land leveling",
+    "Property grading and site preparation",
+    "Backfill and foundation work"
+  ],
+  "benefits": [
+    "High-quality fill dirt sourced locally",
+    "Accurate drop-off at your specified location",
+    "Work within your timeline and budget",
+    "Start your project on solid ground without delays",
+    "Various dirt types available (fill dirt, topsoil, screened dirt)"
+  ],
+  "process": [
+    "Contact us for a free quote",
+    "Specify your dirt type and quantity needed",
+    "Schedule convenient delivery time",
+    "Receive quality dirt delivered to your site",
+    "Optional spreading and grading services available"
+  ],
+  "faqs": [
+    {
+      "question": "What types of dirt do you deliver?",
+      "answer": "We deliver fill dirt, topsoil, screened dirt, and clay. Each type serves different purposes for construction and landscaping projects."
+    },
+    {
+      "question": "How do I know how much dirt I need?",
+      "answer": "Our team can help you calculate the amount needed based on your project dimensions. Generally, we measure in cubic yards."
+    },
+    {
+      "question": "Do you offer same-day delivery?",
+      "answer": "Yes, we offer same-day delivery when available. Contact us early in the day for best availability."
+    },
+    {
+      "question": "Does Trusted Deliveries serve all of Cleveland?",
+      "answer": "Yes, we proudly serve Cleveland and the surrounding areas. Call us at (216) 555-1234 to confirm service to your specific location."
+    }
+  ],
+  "images": [
+    {
+      "url": "/images/Dirt.JPG",
+      "alt": "Professional dirt delivery service - Available in every location in Cleveland",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Dirt.JPG",
+      "alt": "Quality fill dirt delivered to your construction site in Cleveland",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Dirt.JPG",
+      "alt": "Dirt delivery trucks ready for service in Cleveland, Ohio",
+      "credit": "Trusted Deliveries"
+    }
+  ],
+  "cta": "Ready for professional dirt delivery in Cleveland? Call Trusted Deliveries at (216) 555-1234 or request a free quote today!"
+}

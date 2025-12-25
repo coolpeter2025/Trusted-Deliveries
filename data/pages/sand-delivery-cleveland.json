@@ -1,0 +1,66 @@
+{
+  "service": "Sand Delivery",
+  "location": "Cleveland",
+  "slug": "sand-delivery-cleveland",
+  "title": "Sand Delivery in Cleveland - Construction & Play Sand | Trusted Deliveries",
+  "metaDescription": "Professional sand delivery in Cleveland, Ohio. Trusted Deliveries provides clean construction sand, play sand, and mason sand. Free quote available. Call (216) 555-1234!",
+  "h1": "Sand Delivery Services in Cleveland, Ohio",
+  "intro": "Looking for reliable sand delivery in Cleveland? Trusted Deliveries provides clean, high-quality sand for construction, landscaping, and recreational applications throughout Cleveland and the surrounding areas. Whether you need construction sand for masonry work, play sand for sandboxes, or landscape sand for your project, we deliver the right material with professional service.",
+  "description": "Sand delivery services for construction, landscaping, and recreational applications. We deliver clean, washed sand suitable for concrete mixing, masonry work, landscaping, and play areas. Our team can help you select the right sand type for your specific application, and we offer reliable delivery scheduling to keep your project on track.",
+  "applications": [
+    "Concrete mixing and masonry work",
+    "Landscaping and garden projects",
+    "Play areas and sandboxes",
+    "Paver base and leveling"
+  ],
+  "benefits": [
+    "Clean, washed sand for various applications",
+    "Multiple sand types available",
+    "Reliable delivery scheduling",
+    "Suitable for construction and recreational use",
+    "Competitive rates for all project sizes"
+  ],
+  "process": [
+    "Determine your sand type and quantity",
+    "Contact us for pricing and availability",
+    "Schedule your delivery",
+    "Sand delivered to your specified location",
+    "Quality guaranteed for your application"
+  ],
+  "faqs": [
+    {
+      "question": "What types of sand do you deliver?",
+      "answer": "We deliver mason sand, concrete sand, play sand, and fill sand. Each type is suited for different applications."
+    },
+    {
+      "question": "Is your play sand safe for children?",
+      "answer": "Yes, our play sand is clean, washed, and safe for recreational use in sandboxes and play areas."
+    },
+    {
+      "question": "Can I order a small amount of sand?",
+      "answer": "Yes, we accommodate orders of all sizes, from small residential needs to large commercial projects."
+    },
+    {
+      "question": "Do you serve all of Cleveland?",
+      "answer": "Yes, we proudly deliver sand throughout Cleveland and the surrounding areas. Call to confirm service to your location."
+    }
+  ],
+  "images": [
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Professional sand delivery service - Construction and play sand in Cleveland",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Quality sand delivered for construction and landscaping in Cleveland",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Sand.JPG",
+      "alt": "Sand delivery trucks ready for service in Cleveland, Ohio",
+      "credit": "Trusted Deliveries"
+    }
+  ],
+  "cta": "Ready for sand delivery in Cleveland? Call Trusted Deliveries at (216) 555-1234 or request a free quote today!"
+}

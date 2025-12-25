@@ -1,0 +1,66 @@
+{
+  "service": "Gravel Delivery",
+  "location": "Parma",
+  "slug": "gravel-delivery-parma",
+  "title": "Gravel Delivery in Parma, Ohio - Professional Stone Delivery | Trusted Deliveries",
+  "metaDescription": "Professional gravel and crushed stone delivery in Parma, Ohio. Trusted Deliveries provides quality materials for driveways, construction, and landscaping. Free quote available!",
+  "h1": "Gravel Delivery Services in Parma, Ohio",
+  "intro": "Looking for reliable gravel delivery in Parma? Trusted Deliveries is your trusted source for all types of gravel and crushed stone. We serve Parma residents and businesses with prompt delivery, competitive pricing, and professional service. Whether you need gravel for a residential driveway or construction project, we have the right materials and expertise.",
+  "description": "Reliable gravel delivery for driveways, construction sites, and landscaping projects. We offer multiple gravel types and sizes with prompt delivery to keep your projects moving. Our professional operators and modern equipment ensure accurate drop-off and proper handling of all materials. We're committed to competitive pricing and excellent service for all quantities.",
+  "applications": [
+    "Driveways and access roads",
+    "Foundations and construction sites",
+    "Landscaping and drainage projects",
+    "Parking areas and pathways"
+  ],
+  "benefits": [
+    "Multiple gravel types and sizes available",
+    "Prompt delivery to keep projects moving",
+    "Competitive pricing for all quantities",
+    "Professional operators and equipment",
+    "Excellent for drainage and stability"
+  ],
+  "process": [
+    "Choose your gravel type (crushed stone, pea gravel, river rock, etc.)",
+    "Request a free quote for your quantity",
+    "Schedule delivery at your convenience",
+    "Receive gravel delivered precisely where needed",
+    "Spreading services available upon request"
+  ],
+  "faqs": [
+    {
+      "question": "What gravel types do you offer?",
+      "answer": "We offer crushed stone, pea gravel, river rock, #57 stone, #8 stone, and more. Each type has different uses and aesthetics."
+    },
+    {
+      "question": "What is the cost of gravel delivery in Parma?",
+      "answer": "Pricing depends on the type of gravel, quantity needed, and delivery location. Contact us for a competitive estimate."
+    },
+    {
+      "question": "How quickly can you deliver in Parma?",
+      "answer": "We offer prompt delivery, often same-day or next-day depending on availability. Call us to check current schedules."
+    },
+    {
+      "question": "Do you handle installation and spreading?",
+      "answer": "Yes, we provide optional spreading and installation services to complete your project professionally."
+    }
+  ],
+  "images": [
+    {
+      "url": "/images/Gravel.JPG",
+      "alt": "Professional gravel delivery service - Crushed stone and pea gravel in Parma",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Gravel.JPG",
+      "alt": "Quality gravel delivered for driveways and construction in Parma",
+      "credit": "Trusted Deliveries"
+    },
+    {
+      "url": "/images/Gravel.JPG",
+      "alt": "Gravel delivery trucks ready for service in Parma, Ohio",
+      "credit": "Trusted Deliveries"
+    }
+  ],
+  "cta": "Ready for gravel delivery in Parma? Call Trusted Deliveries at (216) 555-1234 or request a free quote today!"
+}
