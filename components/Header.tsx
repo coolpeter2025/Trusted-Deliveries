@@ -12,7 +12,7 @@ export default function Header() {
         <div className="flex justify-between items-center h-16 sm:h-20 md:h-24">
           {/* Logo */}
           <Link href="/" className="flex items-center flex-shrink-0 group">
-            <span className="text-2xl md:text-4xl font-bold text-amber-500 hover:text-amber-400 transition-colors">
+            <span className="text-3xl md:text-5xl lg:text-6xl font-bold text-amber-500 hover:text-amber-400 transition-colors">
               Trusted Deliveries
             </span>
           </Link>
