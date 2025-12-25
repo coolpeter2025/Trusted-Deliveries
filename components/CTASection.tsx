@@ -6,8 +6,8 @@ interface CTASectionProps {
 
 export default function CTASection({
   title = "Get Reliable Aggregate Delivery Today",
-  description = "Ready to schedule your dirt, gravel, sand, salt, or snow delivery? Trusted Deliveries is here to help.",
-  phoneNumber = "+12165551234"
+  description = "Ready to schedule your dirt, gravel, sand, or salt delivery? Trusted Deliveries is here to help.",
+  phoneNumber = "+14403394494"
 }: CTASectionProps) {
   return (
     <section className="bg-gradient-to-br from-gray-800 to-gray-900 py-20">
@@ -29,7 +29,7 @@ export default function CTASection({
               href={`tel:${phoneNumber}`}
               className="inline-block bg-amber-500 text-gray-900 px-6 py-3 rounded-lg font-bold text-lg hover:bg-amber-400 transition-colors"
             >
-              (216) 555-1234
+              (440) 339-4494
             </a>
           </div>
 
@@ -37,7 +37,7 @@ export default function CTASection({
             <div className="text-5xl mb-4">📧</div>
             <h3 className="text-2xl font-bold text-white mb-4">Contact us online to schedule delivery</h3>
             <a
-              href="mailto:info@trusteddeliveries.com"
+              href="mailto:Trusteddeliveries2013@gmail.com"
               className="inline-block bg-amber-500 text-gray-900 px-6 py-3 rounded-lg font-bold text-lg hover:bg-amber-400 transition-colors"
             >
               Email Us

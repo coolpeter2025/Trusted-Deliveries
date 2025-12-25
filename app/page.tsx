@@ -27,7 +27,7 @@ export default function Home() {
             Fast, Reliable Material Delivery
           </p>
           <a
-            href="tel:+12165551234"
+            href="tel:+14403394494"
             className="inline-block bg-amber-500 hover:bg-amber-400 text-gray-900 px-8 py-3 md:px-10 md:py-4 rounded font-bold text-base md:text-lg uppercase tracking-wide transition-all shadow-xl touch-manipulation"
           >
             Call Now!!

@@ -48,14 +48,14 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-300">
               <li>
                 <span className="font-semibold">Phone:</span>{' '}
-                <a href="tel:+12165551234" className="hover:text-amber-500 transition-colors">
-                  (216) 555-1234
+                <a href="tel:+14403394494" className="hover:text-amber-500 transition-colors">
+                  (440) 339-4494
                 </a>
               </li>
               <li>
                 <span className="font-semibold">Email:</span>{' '}
-                <a href="mailto:info@trusteddeliveries.com" className="hover:text-amber-500 transition-colors">
-                  info@trusteddeliveries.com
+                <a href="mailto:Trusteddeliveries2013@gmail.com" className="hover:text-amber-500 transition-colors">
+                  Trusteddeliveries2013@gmail.com
                 </a>
               </li>
               <li>

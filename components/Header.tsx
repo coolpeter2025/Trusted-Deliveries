@@ -67,7 +67,7 @@ export default function Header() {
             </li>
             <li>
               <a
-                href="tel:+12165551234"
+                href="tel:+14403394494"
                 className="bg-amber-600 text-gray-900 px-6 py-2.5 rounded-md font-semibold hover:bg-amber-700 transition-colors"
               >
                 Call Now
@@ -138,7 +138,7 @@ export default function Header() {
               </li>
               <li>
                 <a
-                  href="tel:+12165551234"
+                  href="tel:+14403394494"
                   className="block bg-amber-600 text-gray-900 px-6 py-2.5 rounded-md font-semibold hover:bg-amber-700 text-center"
                 >
                   Call Now
