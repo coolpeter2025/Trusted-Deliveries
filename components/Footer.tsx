@@ -10,7 +10,7 @@ export default function Footer() {
             <h3 className="text-xl font-bold text-amber-500 mb-4">Trusted Deliveries</h3>
             <p className="text-gray-300 leading-relaxed">
               Your reliable local provider for aggregate delivery services in Cleveland, Ohio.
-              We specialize in dirt, gravel, sand, salt delivery, and snow removal services for
+              We specialize in dirt, gravel, sand, and salt delivery services for
               residential and commercial projects.
             </p>
           </div>

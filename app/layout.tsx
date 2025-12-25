@@ -11,8 +11,8 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: "Trusted Deliveries - Aggregate Delivery Services Cleveland Ohio | Dirt, Gravel, Sand & Salt",
-  description: "Trusted Deliveries provides aggregate delivery services in Cleveland, Ohio. Specializing in dirt delivery, gravel delivery, sand delivery, bulk salt delivery, and snow removal services.",
-  keywords: "aggregate delivery Cleveland, dirt delivery Cleveland Ohio, gravel delivery, sand delivery, salt delivery, snow removal Cleveland",
+  description: "Trusted Deliveries provides aggregate delivery services in Cleveland, Ohio. Specializing in dirt delivery, gravel delivery, sand delivery, and bulk salt delivery for residential and commercial projects.",
+  keywords: "aggregate delivery Cleveland, dirt delivery Cleveland Ohio, gravel delivery, sand delivery, salt delivery, material delivery",
   openGraph: {
     title: "Trusted Deliveries - Aggregate Delivery Services Cleveland Ohio",
     description: "Professional aggregate delivery services in Cleveland, Ohio. Fast, reliable delivery for residential and commercial projects.",

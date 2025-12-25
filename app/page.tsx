@@ -40,12 +40,12 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-8">
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              Aggregate Delivery Services for Dirt, Gravel, Sand, Salt & Snow
+              Aggregate Delivery Services for Dirt, Gravel, Sand & Salt
             </h2>
             <div className="max-w-5xl mx-auto space-y-4">
               <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
                 Trusted Deliveries is your reliable local provider for aggregate delivery services, specializing in dirt delivery,
-                gravel delivery, sand delivery, bulk salt delivery, and snow services. We serve residential, commercial, and
+                gravel delivery, sand delivery, and bulk salt delivery. We serve residential, commercial, and
                 construction clients with fast, affordable, and dependable material delivery—directly to your site and on schedule.
               </p>
               <p className="text-lg md:text-xl text-gray-700 leading-relaxed">

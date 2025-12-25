@@ -171,48 +171,6 @@
       ]
     },
     {
-      "name": "Snow Removal",
-      "slug": "snow-removal",
-      "description": "Professional snow removal and site maintenance services",
-      "shortDescription": "Reliable snow removal for safe winter access",
-      "icon": "🌨️",
-      "image": "/images/Snow.JPG",
-      "applications": [
-        "Commercial property snow clearing",
-        "Parking lot plowing and salting",
-        "Construction site access maintenance",
-        "Industrial facility snow management"
-      ],
-      "benefits": [
-        "Professional equipment and experienced operators",
-        "24/7 emergency response available",
-        "Reduce liability and improve safety",
-        "Minimize downtime during winter weather",
-        "Seasonal contracts and per-event service available"
-      ],
-      "process": [
-        "Contact us for a site assessment",
-        "Receive customized snow removal plan",
-        "Choose seasonal contract or per-event service",
-        "We monitor weather and respond automatically",
-        "Professional clearing and salting completed"
-      ],
-      "faqs": [
-        {
-          "question": "Do you offer 24/7 snow removal?",
-          "answer": "Yes, we provide round-the-clock snow removal services to ensure your property remains accessible and safe."
-        },
-        {
-          "question": "What's included in snow removal service?",
-          "answer": "Services include plowing, shoveling, salting/de-icing, and snow hauling if needed. We customize based on your property needs."
-        },
-        {
-          "question": "How do seasonal contracts work?",
-          "answer": "Seasonal contracts provide unlimited snow removal for a flat rate, giving you budget certainty and priority service all winter."
-        }
-      ]
-    },
-    {
       "name": "Site Preparation",
       "slug": "site-preparation",
       "description": "Complete site preparation services for construction projects",
