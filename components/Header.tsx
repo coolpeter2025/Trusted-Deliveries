@@ -12,16 +12,16 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16 sm:h-20 md:h-24">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-3 flex-shrink-0 group">
+          <Link href="/" className="flex items-center gap-4 flex-shrink-0 group">
             <Image
               src="/images/logo2.jpg"
               alt="Trusted Deliveries Logo"
-              width={80}
-              height={80}
-              className="h-12 sm:h-16 md:h-20 w-auto transition-transform group-hover:scale-105 rounded"
+              width={100}
+              height={100}
+              className="h-16 sm:h-20 md:h-24 lg:h-28 w-auto transition-transform group-hover:scale-105 rounded"
               priority
             />
-            <span className="text-2xl md:text-3xl lg:text-4xl font-bold text-amber-500 hover:text-amber-400 transition-colors">
+            <span className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-amber-500 hover:text-amber-400 transition-colors">
               Trusted Deliveries
             </span>
           </Link>

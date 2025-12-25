@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       {/* Hero Section */}
-      <section className="relative bg-cover bg-center text-white py-32 md:py-48 lg:py-64 min-h-[650px] flex items-center" style={{
+      <section className="relative bg-cover bg-center text-white py-20 md:py-32 lg:py-40 min-h-[500px] flex items-center" style={{
         backgroundImage: "url('/truck-hero.jpg')"
       }}>
         <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-black/70"></div>
