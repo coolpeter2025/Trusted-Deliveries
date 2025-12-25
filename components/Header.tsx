@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -12,9 +13,14 @@ export default function Header() {
         <div className="flex justify-between items-center h-16 sm:h-20 md:h-24">
           {/* Logo */}
           <Link href="/" className="flex items-center flex-shrink-0 group">
-            <span className="text-3xl md:text-5xl lg:text-6xl font-bold text-amber-500 hover:text-amber-400 transition-colors">
-              Trusted Deliveries
-            </span>
+            <Image
+              src="/logo.png"
+              alt="Trusted Deliveries Logo"
+              width={200}
+              height={80}
+              className="h-12 sm:h-16 md:h-20 w-auto transition-transform group-hover:scale-105"
+              priority
+            />
           </Link>
 
           {/* Desktop Navigation */}
